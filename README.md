@@ -4,7 +4,5 @@ Tensorflow-CPU compiled for aarch64. Works with the rock64 and python3.6
 
 ## Install
 
-clone repository
-
-    cd tensorflow
-    pip3 install
+    git clone https://github.com/markjay4k/Tensorflow-1.9rc0-py36-aarch64.git
+    pip3 install Tensorflow-1.9rc0-py36-aarch64.git/tensorflow-1.9.0rc0-cp36-cp36m-linux_aarch64.whl
